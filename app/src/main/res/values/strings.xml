@@ -1,0 +1,274 @@
+<resources>
+    <string name="app_name">Be fit Be happy</string>
+    <string name="_8_12reps_3_4sets">8-12reps...3-4sets</string>
+    <string name="_01_00_min">01:00 min</string>
+    <string name="_02_00_min">01:00 min</string>
+    <string name="_03_00_min">01:00 min</string>
+    <string name="_04_00_min">01:00 min</string>
+    <string name="_05_00_min">01:00 min</string>
+    <string name="_06_00_min">01:00 min</string>
+    <string name="_07_00_min">01:00 min</string>
+    <string name="_08_00_min">01:00 min</string>
+    <string name="_09_00_min">01:00 min</string>
+    <string name="_10_00_min">01:00 min</string>
+    <string name="_11_00_min">01:00 min</string>
+    <string name="_12_00_min">01:00 min</string>
+    <string name="mountain_climbers">Mountain Climbers</string>
+    <string name="todo">TODO</string>
+    <string name="side_planks">side planks</string>
+    <string name="starfish_crunches">starfish crunches</string>
+    <string name="reverse_crunches">reverse crunches</string>
+    <string name="planks">planks</string>
+    <string name="bikini_walks">bikini walks</string>
+    <string name="pilate_100">pilate 100</string>
+    <string name="russian_twists">russian twists</string>
+    <string name="flutter_kicks">Flutter kicks</string>
+    <string name="sit_ups">sit ups</string>
+    <string name="oblique_crunches">oblique crunches</string>
+    <string name="_7_12reps_3_4sets">8-12reps...3-4sets</string>
+    <string name="_9_12reps_3_4sets">8-12reps...3-4sets</string>
+    <string name="_10_12reps_3_4sets">8-12reps...3-4sets</string>
+    <string name="triceps_dips">Triceps Dips</string>
+
+
+    <string name="one">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.<br />
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles.<br />
+                             Step 3:- Squeeze your abs(tummy), lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible.<br />
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg as quick as possible for reps.<br />
+                             CAUTION:-Don\'t arch your back,Don\'t raise your hips**Keep your arms in the same position..<br />
+                             BENEFITS:- Strengthens upper body,Increases the range of motion of the body.. </string>
+    <string name="two">    Step 1:- Sit on the edge of one chair and grip the edge of the chair with your hands.<br />
+                                  Step 2:- Place your legs straight out in front of you and hold yourself up using your triceps.<br />
+                                  Step 3:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.<br />
+                                  Step 4:- Slowly push yourself back up to the start position and pause for a while then repeat for reps. Control the movement throughout the range of motion.<br />
+                                  CAUTION:- Don\'t keep your shoulders high,Don\'t dip too low,Don\'t lean forward..<br />
+                                  BENEFITS:- Strengthens your arms,back,shoulders,core and legs..
+                                 </string>
+    <string name="three">    Step 1:- Lie face-up on an exercise mat with your knees bent and your feet on the floor.<br />
+                             Step 2:- Place both of your hands on the sides of your head without interlocking your fingers. Your spine and pelvis should be in a neutral position. Slightly tuck your pelvis and bring your ribcage down. Engage your core. Your chin should remain tucked throughout the movement, as if you were holding an egg under your chin. All repetitions should begin from this position.<br />
+                             Step 3:- Begin the upward movement by squeezing your abs. Curl your upper body off the floor toward your knees while squeezing your abs. Pause at the top of the movement.<br />
+                             Step 4:- Slowly lower to the starting position while maintaining tension in your abs. Repeat for reps.<br />
+                             CAUTION:- Start slow,Use flat surface,Don\'t crane your neck,Keep your neck neutral..
+                             </string>
+    <string name="four">    Step 1:- Start standing upright, then lower your upper body to the ground and slowly “walk” you hands out to a plank position, keeping your feet planted.<br />
+                             Step 2:- Once you have reached a plank position, bend your elbows to execute a pushup. <br />
+                             Step 3:- If you need to modify the pushup, lower your knees to the ground and bring your heels in towards your tush and do the pushup on your knees.<br />
+                             Step 4:- After you\’ve completed the pushup, “walk” your hands back towards your feet and stand.<br />
+                             Step 5:- Repeat for reps..<br />
+                             BENEFITS:- Strengthens your spine..
+                           </string>
+    <string name="five">   Step 1:-Lie faceup on the floor and extend your legs at about a 45-degree angle to the floor. Keep arms straight by your sides, in line with the floor, with palms facing down. (Alternatively, you can extend your arms and place both hands under your butt).<br />
+                             Step 2:- Keep spine neutral, with just a slight arch in your lower back. Point your toes, keeping legs straight and almost glued together.<br />
+                             Step 3:- With legs hovering a few inches above the floor, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.(That\'s one rep).<br />
+                             Step 4:- Do 10 reps per side. Repeat for 3 reps.
+                             CAUTION:- Maintain a neutral spine,Watch your neck..
+                             BENEFITS:- Burns calories**Excellent cardio,Sheds belly fat**Improves body posture..
+                            </string>
+
+
+    <string name="six">    Step 1:-  Lie on your back with your hands supporting your head, bend the knees, and rotate your hips to the left.<br />
+                             Step 2:- Place your hands behind your head. Bring both hands up behind your head, with your elbows out. Lightly touch the back of your head with your fingertips.<br />
+                             Step 3:- Lift your shoulder blades up. Contract or squeeze your abdominal muscles as you slowly lift your shoulder blades off the ground. Repeat on the left side for reps.<br />
+                             CAUTION:- Start slow to avoid strain..<br />
+                             BENEFITS:- Improves endurance,Strengthens the core..
+       </string>
+    <string name="seven">    Step 1:- Lie on your back. Raise your legs and bend them at the knee in the tabletop position with your shins and ankles parallel to the floor.<br />
+                             Step 2:- Inhale.<br />
+                             Step 3:- Exhale: Bring your head up with your chin down and, using your abdominal muscles, curl your upper spine up off the floor to the base of your shoulder blades.<br />
+                             Step 4:- Exhale. At the same time, deepen the pull of the abs and extend your arms and legs.<br />
+                             Step 5:- Hold your position. Take five short breaths in and five short breaths out (like sniffing in and puffing out). While doing so, move your arms in a controlled up and down manner —a small but dynamic pumping of the arms. Be sure to keep your shoulders and neck relaxed. It is the abdominal muscles that should be doing all the work.<br />
+                             Step 6:- Do a cycle of 10 full breaths. Each cycle is five short in-breaths and then five short out-breaths. The arms pump up and down—about a 6-inch to 8-inch pump—in unison with your breath.<br />
+                             Step 7:- To finish, keep your spine curved as you bring your knees in toward your chest.<br />
+                             Step 8:- Repeat for reps..<br />
+                             CAUTION:- Chin shouldn\'t point up,Legs shouldn\'t be too low..<br />
+                             BENEFITS:- Strengthens the core..
+                             </string>
+    <string name="eight">    Step 1:-Select a position where you can extend your whole body length. Using an exercise mat will give you enough padding to be comfortable on all fours.<br />
+                             Step 2:- Begin in the plank position, face down with your forearms and toes on the floor. Your elbows are directly under your shoulders and your forearms are facing forward. Your head is relaxed and you should be looking at the floor.<br />
+                             Step 3:- Engage your abdominal muscles, drawing your navel toward your spine. Keep your torso straight and rigid and your body in a straight line from your ears to your toes with no sagging or bending. This is the neutral spine position. Ensure your shoulders are down, not creeping up toward your ears. Your heels should be over the balls of your feet.<br />
+                             Step 4:- Hold this position for 10 seconds. Release to floor.<br />
+                             CAUTION:- Don\'t arch your back,No sagging hips,Your neck should be in line with your body..<br />
+                              BENEFITS:- Strengthens the core,Increases stability..</string>
+    <string name="nine">    Step 1:- Lay face up on the mat with your arms at your sides. They can be closer to your body or extended comfortably to use for balance.<br />
+                            Step 2:- Bend your legs at the knee and brace your abs to slowly raise your legs so the knees are directly over your hips and your lower legs are parallel to the floor (bent 90 degrees). This is the starting position. <br />
+                             Step 3:- Exhale as you contract the abs to curl your hips and knees toward your chest, with only your hips coming off the mat as you curl. Your knees should remain at the same angle throughout this upward phase. Your head should be kept straight and the neck and shoulders should remain relaxed and on the mat. Hold when you cannot curl without your back coming off the mat.<br />
+                             Step 4:- Inhale and slowly return to the starting position with your hips back on the mat and your knees over your hips, still bent 90 degrees.<br />
+                             Step 5:- Repeat for reps..<br />
+                             CAUTION:- Don\'t use too much momentum..<br />
+                             BENEFITS:- Developing an appealing stomach musculature..
+                            </string>
+    <string name="ten">    Step 1:- Lie Down On the Floor With Your Knees Bent.<br />
+                             Step 2:- Lift Your Upper Body Off the Ground.Bring your hands together toward the center of your chest — clasp them together if that\'s your preference.Your torso and your thighs should form a V-shape at this point.To make this move advanced, you can also lift your legs off of the ground, bringing your shins up into a tabletop position.<br />
+                             Step 3:- Twist Side to Side.Keep your abs contracted and twist your torso to the right, bringing your arms out to the right as well. <br />
+                             Step 4:- Keep a Steady Pace.Russian twists are usually done with a two-count cadence — one-two, two-two, three-two, four-two, five-two, and so on — to keep track of how many reps you do in a set.<br />
+                             Step 5:- Repeat for reps..<br />
+                             CAUTION:- Don\'t hold your breathe when crushing through reps and sets,Don\'t do if you have had a neck,back or shoulder issues in the past..<br />
+                             BENEFITS:- Burns a lot of calories,Increases fitness level..
+                            </string>
+    <string name="eleven">    Step 1:- Lie on the ground with your arms and legs extended so that you are creating an "x" position on the ground.<br />
+                             Step 2:- Simultaneously lift shoulders and legs off the ground and hug knees to chest, engaging core to come up.<br />
+                             Step 3:- Slowly lower back down. <br />
+                             Step 4:- Repeat for reps. <br />
+                             CAUTION:- Control the motion-don\'t swing your arms and legs towards each other..<br />
+                             BENEFITS:- Strengthening Abdominal muscles..<br />
+                            </string>
+    <string name="twelve">    Step 1:- Lie on your right side with your legs straight and feet stacked on top of each other. Place your right elbow under your right shoulder with your forearm pointing away from you and your hand balled into a fist. The pinky side of your hand should be in contact with the ground.<br />
+                             Step 2:- Keep your neck neutral and core braced.<br />
+                             Step 3:- Lift your hips off the mat with the palm of your supporting hand directly under your lower shoulder, with your fingers facing away from you.<br />
+                             Step 4:- Reach your top arm up toward the ceiling.<br />
+                             Step 5:- Hold this position.<br />
+                             Step 6:- Repeat for reps.<br />
+                             CAUTION:- Avoid this exercise if you have shoulder, arm, or core pain..<br />
+                             BENEFITS:- Improves your balance,Improves your balance,Protects your spine..
+                            </string>
+
+
+    <string-array name="title_story">
+        <item>Day 1</item>
+        <item>Day 2</item>
+        <item>Day 3</item>
+        <item>Day 4</item>
+        <item>Day 5</item>
+        <item>Day 6</item>
+        <item>Day 7</item>
+        <item>Carbs</item>
+        <item>Proteins</item>
+        <item>Fats</item>
+        <item>Foods to avoid</item>
+        <item>Do\'s and Don\'ts</item>
+        <item>pre workout foods</item>
+        <item>post workout foods</item>
+
+    </string-array>
+
+
+    <string-array name="details_story">
+
+        <item>
+            Day 1:-
+            Breakfast: Oats,Banana Pancakes with Protein Shake
+            Lunch: Multigrain chapati with chicken Avocado and kachumbari salad
+            Pre-Workout Snack: Bananas
+            Dinner(Post-Workout): Brown rice, peas and sprouts vegetable salad
+
+        </item>
+        <item>
+            Day 2:-
+            Breakfast:	Oatmeal with Yogurt(any flavour) and Natural Mango Juice
+            Lunch: Ugali,fish curry, vegetable salad or kachumbari
+            Pre-Workout Snack: Bread toast with Jam
+            Dinner(Post-Workout): Pilau and vegetable salad
+
+        </item>
+        <item>
+            Day 3:-
+            Breakfast: White eggs,Whole Grain bread(with honey,jam or peanut butter) and tea
+            Lunch: Ugali, chicken and broccoli salad
+            Pre-Workout Snack: Mixed Nuts and Fruits(any)
+            Dinner(Post-Workout): Lean Beef and vegetable curry, brown rice, cucumbers, Roasted Baby Potatoes,Chocolate Milk
+
+        </item>
+        <item>
+            Day 4:-
+            Breakfast: Oatmeal with Apple Juice
+            Lunch: Grilled Chicken with Mashed potatoes
+            Pre-Workout Snack: Toast with Peanut Butter
+            Dinner(Post-Workout): Chapati,beans and potatoes,spinach and Protein Shake
+
+        </item>
+        <item>
+            Day 5:-
+            Breakfast: Scrambled Egg, Whole Grain Bread and Smoothie
+            Lunch: Green grams and Brown rice with Green Salad
+            Pre-Workout Snack: Mixed Nuts and Dried Fruits(any)
+            Dinner(Post-Workout): Chicken Stir Fry Spring Onion, Peppers and Broccoli Milk
+
+        </item>
+        <item>
+            Day 6:-
+            Breakfast:Whole Grain Bread and tea
+            Lunch: Ugali and lean beef with mashed vegetables and Yogurt(any flavour)
+            Pre-Workout Snack: Apples
+            Dinner(Post-Workout): Protein Shake
+
+        </item>
+        <item>
+            Day 7:-
+            Breakfast: Oatmeal
+            Lunch: End week fasting( drink lots of water)
+            Pre-Workout Snack: Protein Shake
+            Dinner(Post-Workout) Brown Rice with letils(kamande) and Milk
+
+
+
+            While the above guide will prove to be useful, be aware that when it comes to nutrition, everyone is different. Not only will physical attributes determine your nutritional requirements, the goals that you have set will also influence your diet.
+            For example, two goals that are extremely common are fat loss and muscle growth. To lose fat, calories must be restricted which will cause stored body fat to be broken down. For muscle growth, calorie intake must be increased to build significant muscle size as additional calories are required to accelerate the recovery process.
+
+        </item>
+        <item>
+            Carbs:-
+            Firstly, carbohydrates are the primary source of energy for the body and therefore play the most substantial role in fueling exercise. There are two different types of carbohydrates – complex and simple. The names give an indication of the time taken to digest; complex carbs take a longer time period to digest than simple carbs.
+            Complex carbohydrates provide the body with prolonged slow-release of energy and have a great nutritional benefit. While simple carbohydrates provide the body with a short-term, fast releasing energy, they contain little nutritional value.
+            For this reason, you should look to primarily consume complex carbohydrates. Some foods to consider adding to your diet include whole-grains, oats, beans, nuts, fruits, and vegetables.
+
+
+        </item>
+        <item>
+            Proteins:-
+            Proteins are so important in that,they play a key role in recovery and repair. During exercise, the body is exposed to strains and stresses which cause damage to occur to the muscles at a microscopic level. In order for the damage to be repaired, protein is needed. Without it, recovery periods will be extended and chronic fatigue may become a factor.
+            Protein is found most highly in animal produce such as lean meats, eggs and dairy. It can also be found in smaller quantities in foods such as seeds, nuts, legumes, beans, and soy.
+        </item>
+        <item>
+            Fats:-
+            Fats are often incorrectly seen as the primary reason for fat gain. However, fats are not responsible for this and actually play a key role in the absorption and transport of nutrients. In addition, they can have a positive impact on heart health and hormone production.
+            While fats can have a positive impact on health, there are several types of fat – some of which are of greater benefit than others. While saturated fats are not as harmful as once believed, focus primarily on unsaturated fats. Unsaturated fat foods include: avocados, seeds, nuts, peanut butter, fish (salmon,omena,tilapia), oils (olive, peanut, sesame), and soy products (tofu, soy milk).
+
+        </item>
+        <item>
+            Foods To Avoid:-
+            Trans fats are a type of dietary fat that has consistently been shown to impact health. While trans fats do naturally occur in small quantities, artificial trans fats are notoriously hazardous. Artificial trans fats can be found in baked goods, fast food, and many snack foods.
+            As mentioned, many simple carbohydrate foods do not have great nutritional value and contain a high amount of sugar. While they may be useful for a short term energy boost, consuming a large number of simple carbs can be detrimental.
+            Eating a great quantity of simple carbohydrates will spike blood sugar levels initially. However, very quickly, blood sugar levels will nosedive and can leave you feeling lethargic which is less than optimal for exercise and performance.
+            Although technically not a food, alcohol is a substance that should also be limited as far as possible. There is much research to indicate that alcohol negatively impacts recovery and may even interfere with the muscle-building and fat-loss process.
+        </item>
+        <item>
+            Do\'s and Don\'ts:-
+            Do\’s:
+            – Consume all 3 macronutrients
+            – Ensure that you are eating a wide range of fruit and vegetables for comprehensive consumption of vitamins and minerals
+            – Primarily choose complex carbs over simple carbs
+            – Ensure that you are consuming protein regularly throughout the day
+            – Consume unsaturated fats over saturated and trans fats
+            – Moderate your consumption of produce that will negatively impact health and gym progress
+            – Maintain hydration levels
+
+            Don\’t:
+           – Cut a macro-nutrient from your diet as all are required for specific functions
+           – Skip meals, especially in the lead up to or after a workout
+           – Eat a “heavy” complex carb meal too close to beginning a workout give yourself a minimum of 2hrs for food to digest
+           – Rely too heavily on simple carbs to fuel performance
+           – Make poor nutritional choices for the sake of gaining calories
+        </item>
+        <item>
+            Pre-workout foods:-
+            The focus with all pre-workout meals or snacks should be carbohydrates to provide the body with plenty of energy to last the full session. If energy levels are sub-optimal, then performance will suffer which will have a consequent impact on our rate of adaptation.
+            To prime the body for performance, focus on primarily consuming complex carbohydrates such as whole-grains, oats, beans, nuts, fruits, and vegetables. Be ware not to consume them just before the workout as they take time to digest. The recommendation is to consume complex carbs one to two hours prior to exercise to allow for full digestion.
+            From that point, focus on simple carbohydrates as they take less time to digest and provide the body with bursts of energy. It may even be recommended to consume some simple carbs during a workout to maintain energy levels and performance.
+            White bread, jam, granola, cereal, rice cakes, sports drinks, and fruit are all viable options for a pre-workout, energy-boosting snack.
+            While the focus should predominantly be on carbohydrates, it is also important to consume some protein prior to the exercise. To support muscle recovery and growth, protein levels should be maintained at a high level throughout each day.
+
+        </item>
+        <item>
+            Post-workout foods:-
+            The purpose of post-workout nutrition is two-fold one to promote muscle recovery and two to replenish energy. Therefore, the focus should once again be on consuming good quality protein and carb foods.
+            There is a widely held belief that protein timing is extremely important for maximizing growth, however, a number of studies have indicated that total daily protein intake is of greater importance than the timing.
+            High-protein foods such as lean beef, chicken, pork, turkey, eggs, dairy, seeds, quinoa, and nuts should be prioritized. Protein supplements, like protein shakes and bars, can serve as a convenient tool for effectively boosting protein intake.
+            Carbohydrates should also form part of post-workout nutrition as the energy that has been expended during exercise must be replaced.
+            If possible, it is recommended to consume protein and carbs together as this will have the most pronounced impact on recovery by enhancing protein and glycogen (energy) synthesis. Often a ratio of 3:1 carb to protein is prescribed for optimizing recovery.
+        </item>
+
+
+    </string-array>
+
+
+</resources>
